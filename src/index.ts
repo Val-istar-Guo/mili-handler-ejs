@@ -1,6 +1,6 @@
 import ejs from 'ejs'
 
-export default function(options) {
+export default function(options?: ejs.Options) {
   const genFile = async(file, resource) => {
     const view = {
       mili: resource.mili,
