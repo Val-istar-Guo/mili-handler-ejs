@@ -1,7 +1,7 @@
 {
   "name": "@mili-handlers/ejs",
   "main": "lib/index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The mili handler used to parse ejs template.",
   "module": "es/index.js",
   "keywords": [
